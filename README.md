@@ -1,5 +1,6 @@
 # ❓ About Me:
-🎓 🟪 Student @ Western Ontario <br>📍 Toronto, ON<br>🤖 Robotics, Web, AI Enthusiast<br><br>🔧 Working On: <br>🔜 Portfolio<br>🔜 PigeonChat 🐦 
+🎓 🟪 Student @ Western Ontario <br>📍 Toronto, ON<br>🤖 Robotics, Web, AI Enthusiast
+🔧 Working On: <br>🔜 PigeonChat 🐦 
 
 
 # 💻 Tech Stack:

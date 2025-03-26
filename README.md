@@ -13,11 +13,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshia-naseri&theme=default&hide_border=false" />
 </picture>
 
-<!-- tokyonight -->
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arshia-naseri&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arshia-naseri&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" media="(prefers-color-scheme: light)" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshia-naseri&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</picture>
+
+<br>
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=arshia-naseri&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=arshia-naseri&theme=default&hide_border=false&include_all_commits=false&count_private=false" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arshia-naseri&theme=default&hide_border=false&include_all_commits=false&count_private=false" />
 </picture>
 
 ### ✍️ Random Dev Quote

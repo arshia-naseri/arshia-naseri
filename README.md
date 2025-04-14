@@ -27,6 +27,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=arshia-naseri&theme=default&hide_border=false&include_all_commits=false&count_private=false" />
 </picture>
 
+🎮 [Play Sonic the Hedgehog](https://www.retrogames.cc/embed/30899-sonic-the-hedgehog-usa-europe.html)
+
+
 ### ✍️ Random Dev Quote
 <picture>
   <source srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" media="(prefers-color-scheme: dark)" />

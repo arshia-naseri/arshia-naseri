@@ -3,7 +3,7 @@
 <br>
 📍 Toronto, ON
 <br>
-🤖 Robotics, Web, AI Enthusiast
+🤖 Robotics, Web, AI, Software Enthusiast
 
 
 # 💻 Tech Stack:

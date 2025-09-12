@@ -1,5 +1,9 @@
 # ❓ About Me:
-🎓 🟪 Student @ Western Ontario <br>📍 Toronto, ON<br>🤖 Robotics, Web, AI Enthusiast
+🎓 🟪 University of Western Ontario Alumni
+<br>
+📍 Toronto, ON
+<br>
+🤖 Robotics, Web, AI Enthusiast
 
 
 # 💻 Tech Stack:

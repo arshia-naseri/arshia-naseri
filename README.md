@@ -24,7 +24,7 @@
   <source srcset="https://github-readme-stats.vercel.app/api?username=arshia-naseri&theme=default&hide_border=false&include_all_commits=false&count_private=false" media="(prefers-color-scheme: light)" />
   <img src="https://github-readme-stats.vercel.app/api?username=arshia-naseri&theme=default&hide_border=false&include_all_commits=false&count_private=false" />
 </picture>
--->
+
 
 
 ### ✍️ Random Dev Quote
@@ -33,5 +33,5 @@
   <source srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" media="(prefers-color-scheme: light)" />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" />
 </picture>
-
+-->
  <!--Proudly created with GPRM ( https://gprm.itsvg.in ) -->

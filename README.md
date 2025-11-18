@@ -1,7 +1,10 @@
 # ❓ About Me
 🎓 🟪 University of Western Ontario Alumni       
 📍 _Toronto, ON_       
-**🤖 Robotics, Web, AI, Software Enthusiast**
+**🤖 Robotics, Web, AI, Software Enthusiast**             
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/arshia-naseri/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portf.-Arshia%20Naseri-E6C670?style=for-the-badge&link=www.arshia-naseri.com)](https://www.arshia-naseri.com/)
 
 
 # 💻 Tech Stack
